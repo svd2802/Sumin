@@ -1,0 +1,50 @@
+
+
+#t1 {
+    background-color: crimson;
+}
+
+#t2 {
+    font-size: 50px;
+}
+
+.t2 {
+    font-style: italic;
+    font-weight: bolder;
+}
+.button{
+    border: 10px solid red;
+
+}
+
+.button__text {
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.button__text--active {
+    color: blue;
+}
+
+.btn {
+
+}
+
+.btn-default{
+
+}
+.btn-red{
+
+}
+.btn.active {
+
+}
+
+.button:active {
+    size: 60px;
+    
+}
+
+.button:hover {
+    border: 10px  solid sandybrown;
+}
